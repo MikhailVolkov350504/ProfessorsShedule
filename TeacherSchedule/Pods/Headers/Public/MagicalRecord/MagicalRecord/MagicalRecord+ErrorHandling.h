@@ -1,0 +1,5 @@
+XSym
+0074
+dabacf9814a9d271f17c16834c430603
+../../../../MagicalRecord/MagicalRecord/Core/MagicalRecord+ErrorHandling.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

@@ -1,0 +1,5 @@
+XSym
+0115
+0870fe075d813280a6a10395703b3f8b
+../../../../MagicalRecord/MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalChainSave.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

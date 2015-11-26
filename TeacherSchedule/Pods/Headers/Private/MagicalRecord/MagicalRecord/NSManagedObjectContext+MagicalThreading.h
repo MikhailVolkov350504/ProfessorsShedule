@@ -1,0 +1,5 @@
+XSym
+0115
+0c7a54a37abc65e07704c578c596a14c
+../../../../MagicalRecord/MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalThreading.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

@@ -1,0 +1,5 @@
+XSym
+0099
+196a85ee9676c2f199d279f8d2d00141
+../../../../MagicalRecord/MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalFinders.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

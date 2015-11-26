@@ -1,0 +1,5 @@
+XSym
+0086
+91f13cea9575fa4158ddee9ae3db5ba1
+../../../../MagicalRecord/MagicalRecord/Categories/DataImport/MagicalImportFunctions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

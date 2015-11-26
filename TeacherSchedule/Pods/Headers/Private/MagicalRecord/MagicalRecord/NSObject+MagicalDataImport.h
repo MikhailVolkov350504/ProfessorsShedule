@@ -1,0 +1,5 @@
+XSym
+0090
+dea7141e4da3b8ef50a085c1ca49123d
+../../../../MagicalRecord/MagicalRecord/Categories/DataImport/NSObject+MagicalDataImport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

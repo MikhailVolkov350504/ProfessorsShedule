@@ -1,0 +1,5 @@
+XSym
+0115
+5285fc7814bc0014515c1450047258fc
+../../../../MagicalRecord/MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalObserving.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

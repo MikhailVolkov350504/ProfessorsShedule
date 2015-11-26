@@ -1,0 +1,5 @@
+XSym
+0100
+99f4291ac7b5f85e0ec30fda0e8e2312
+../../../../MagicalRecord/MagicalRecord/Categories/NSManagedObject/NSManagedObject+MagicalRequests.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

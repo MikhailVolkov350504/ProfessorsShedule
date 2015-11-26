@@ -1,0 +1,5 @@
+XSym
+0077
+32648f6d52dee40df64a5e7093ce07a7
+../../../../MagicalRecord/MagicalRecord/Core/MagicalRecord+ShorthandMethods.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

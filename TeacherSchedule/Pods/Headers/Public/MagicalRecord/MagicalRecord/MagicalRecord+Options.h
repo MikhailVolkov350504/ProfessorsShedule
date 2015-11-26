@@ -1,0 +1,5 @@
+XSym
+0068
+2aa7b101eb6fc83b33285303741f0325
+../../../../MagicalRecord/MagicalRecord/Core/MagicalRecord+Options.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

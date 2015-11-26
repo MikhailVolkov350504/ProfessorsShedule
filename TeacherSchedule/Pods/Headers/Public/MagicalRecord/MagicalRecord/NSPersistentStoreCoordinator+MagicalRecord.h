@@ -1,0 +1,5 @@
+XSym
+0095
+0d65c8c19417b18c02c1533419dd9d4c
+../../../../MagicalRecord/MagicalRecord/Categories/NSPersistentStoreCoordinator+MagicalRecord.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

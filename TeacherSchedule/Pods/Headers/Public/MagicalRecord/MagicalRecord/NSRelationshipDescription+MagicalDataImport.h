@@ -1,0 +1,5 @@
+XSym
+0107
+81798f475fa80bbb71732d73b69e530c
+../../../../MagicalRecord/MagicalRecord/Categories/DataImport/NSRelationshipDescription+MagicalDataImport.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

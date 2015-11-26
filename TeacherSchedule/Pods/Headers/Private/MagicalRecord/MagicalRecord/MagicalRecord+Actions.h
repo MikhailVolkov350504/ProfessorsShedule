@@ -1,0 +1,5 @@
+XSym
+0068
+20ca600ed81918108f21d275e9ffeb3c
+../../../../MagicalRecord/MagicalRecord/Core/MagicalRecord+Actions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
