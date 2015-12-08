@@ -10,6 +10,7 @@
 		4E11E6071C05F4CE005C88C9 /* TeacherCoreData+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E11E6041C05F4CE005C88C9 /* TeacherCoreData+CoreDataProperties.m */; };
 		4E11E6081C05F4CE005C88C9 /* TeacherCoreData.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E11E6061C05F4CE005C88C9 /* TeacherCoreData.m */; };
 		4E11E60B1C05F6A3005C88C9 /* ScheduleDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E11E60A1C05F6A3005C88C9 /* ScheduleDetailViewController.m */; };
+		4E3E73D11C090F2700B3BED3 /* schedule.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4E3E73D01C090F2700B3BED3 /* schedule.plist */; };
 		4ECB5EEB1C03437600607DA2 /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4ECB5EEA1C03437600607DA2 /* data.plist */; };
 		4ECB5EEE1C0347D000607DA2 /* Teacher.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ECB5EED1C0347D000607DA2 /* Teacher.m */; };
 		4ECB5EF11C03572E00607DA2 /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ECB5EF01C03572E00607DA2 /* DataManager.m */; };
@@ -29,6 +30,7 @@
 		4E11E6061C05F4CE005C88C9 /* TeacherCoreData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeacherCoreData.m; sourceTree = "<group>"; };
 		4E11E6091C05F6A3005C88C9 /* ScheduleDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScheduleDetailViewController.h; sourceTree = "<group>"; };
 		4E11E60A1C05F6A3005C88C9 /* ScheduleDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScheduleDetailViewController.m; sourceTree = "<group>"; };
+		4E3E73D01C090F2700B3BED3 /* schedule.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = schedule.plist; sourceTree = "<group>"; };
 		4ECB5EEA1C03437600607DA2 /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = data.plist; sourceTree = "<group>"; };
 		4ECB5EEC1C0347D000607DA2 /* Teacher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Teacher.h; sourceTree = "<group>"; };
 		4ECB5EED1C0347D000607DA2 /* Teacher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Teacher.m; sourceTree = "<group>"; };
@@ -104,12 +106,14 @@
 				4EF93E681C033C0500EE3D34 /* ViewController.m */,
 				4E11E6091C05F6A3005C88C9 /* ScheduleDetailViewController.h */,
 				4E11E60A1C05F6A3005C88C9 /* ScheduleDetailViewController.m */,
+				4E3E73D01C090F2700B3BED3 /* schedule.plist */,
 				4EF93E6A1C033C0500EE3D34 /* Main.storyboard */,
 				4ECB5EF21C03577D00607DA2 /* Models */,
-				4EF93E701C033C0500EE3D34 /* Assets.xcassets */,
 				4EF93E751C033C0500EE3D34 /* Info.plist */,
 				4EF93E611C033C0500EE3D34 /* Supporting Files */,
 				4ECB5EEA1C03437600607DA2 /* data.plist */,
+				4EF93E621C033C0500EE3D34 /* main.m */,
+				4EF93E701C033C0500EE3D34 /* Assets.xcassets */,
 			);
 			path = TeacherSchedule;
 			sourceTree = "<group>";
@@ -117,7 +121,6 @@
 		4EF93E611C033C0500EE3D34 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				4EF93E621C033C0500EE3D34 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4EF93E711C033C0500EE3D34 /* Assets.xcassets in Resources */,
+				4E3E73D11C090F2700B3BED3 /* schedule.plist in Resources */,
 				4ECB5EEB1C03437600607DA2 /* data.plist in Resources */,
 				4EF93E6C1C033C0500EE3D34 /* Main.storyboard in Resources */,
 			);

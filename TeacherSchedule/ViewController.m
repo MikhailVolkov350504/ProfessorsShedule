@@ -124,6 +124,7 @@
         
         [self.tableView reloadData];
     }
+    
 }
 
 - (void)filteredContentForSearchText:(NSString *)searchText {
@@ -240,6 +241,8 @@
             self.scheduleData = [NSMutableData data];
             NSLog(@"SAVE TO");
             [[UIApplication sharedApplication]setNetworkActivityIndicatorVisible:NO];
+            
+            
         }
         else
         {
