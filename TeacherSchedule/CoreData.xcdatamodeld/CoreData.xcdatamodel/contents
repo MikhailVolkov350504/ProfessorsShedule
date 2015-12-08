@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9057" systemVersion="15A282a" minimumToolsVersion="Xcode 7.0">
+    <entity name="TeacherCoreData" representedClassName="TeacherCoreData" syncable="YES">
+        <attribute name="teacherFirstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="teacherID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="teacherLastName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="TeacherCoreData" positionX="-54" positionY="-9" width="128" height="90"/>
+    </elements>
+</model>
