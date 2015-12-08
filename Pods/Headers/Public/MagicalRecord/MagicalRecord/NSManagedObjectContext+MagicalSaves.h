@@ -1,1 +1,5 @@
+XSym
+0111
+76e879ffcda0ad98f354370045242618
 ../../../../MagicalRecord/MagicalRecord/Categories/NSManagedObjectContext/NSManagedObjectContext+MagicalSaves.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

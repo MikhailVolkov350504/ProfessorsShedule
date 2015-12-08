@@ -11,6 +11,8 @@
 		4E11E6081C05F4CE005C88C9 /* TeacherCoreData.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E11E6061C05F4CE005C88C9 /* TeacherCoreData.m */; };
 		4E11E60B1C05F6A3005C88C9 /* ScheduleDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E11E60A1C05F6A3005C88C9 /* ScheduleDetailViewController.m */; };
 		4E3E73D11C090F2700B3BED3 /* schedule.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4E3E73D01C090F2700B3BED3 /* schedule.plist */; };
+		4E3E73D41C1260DB00B3BED3 /* CellTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E3E73D31C1260DB00B3BED3 /* CellTableViewCell.m */; };
+		4E406B811C134B8400BF7733 /* ScheduleDetailModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E406B801C134B8300BF7733 /* ScheduleDetailModel.m */; };
 		4ECB5EEB1C03437600607DA2 /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4ECB5EEA1C03437600607DA2 /* data.plist */; };
 		4ECB5EEE1C0347D000607DA2 /* Teacher.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ECB5EED1C0347D000607DA2 /* Teacher.m */; };
 		4ECB5EF11C03572E00607DA2 /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ECB5EF01C03572E00607DA2 /* DataManager.m */; };
@@ -31,6 +33,10 @@
 		4E11E6091C05F6A3005C88C9 /* ScheduleDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScheduleDetailViewController.h; sourceTree = "<group>"; };
 		4E11E60A1C05F6A3005C88C9 /* ScheduleDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScheduleDetailViewController.m; sourceTree = "<group>"; };
 		4E3E73D01C090F2700B3BED3 /* schedule.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = schedule.plist; sourceTree = "<group>"; };
+		4E3E73D21C1260DB00B3BED3 /* CellTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CellTableViewCell.h; sourceTree = "<group>"; };
+		4E3E73D31C1260DB00B3BED3 /* CellTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CellTableViewCell.m; sourceTree = "<group>"; };
+		4E406B7F1C134B8300BF7733 /* ScheduleDetailModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScheduleDetailModel.h; sourceTree = "<group>"; };
+		4E406B801C134B8300BF7733 /* ScheduleDetailModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScheduleDetailModel.m; sourceTree = "<group>"; };
 		4ECB5EEA1C03437600607DA2 /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = data.plist; sourceTree = "<group>"; };
 		4ECB5EEC1C0347D000607DA2 /* Teacher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Teacher.h; sourceTree = "<group>"; };
 		4ECB5EED1C0347D000607DA2 /* Teacher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Teacher.m; sourceTree = "<group>"; };
@@ -73,6 +79,8 @@
 				4E11E6041C05F4CE005C88C9 /* TeacherCoreData+CoreDataProperties.m */,
 				4E11E6051C05F4CE005C88C9 /* TeacherCoreData.h */,
 				4E11E6061C05F4CE005C88C9 /* TeacherCoreData.m */,
+				4E406B7F1C134B8300BF7733 /* ScheduleDetailModel.h */,
+				4E406B801C134B8300BF7733 /* ScheduleDetailModel.m */,
 			);
 			name = Models;
 			sourceTree = "<group>";
@@ -106,6 +114,8 @@
 				4EF93E681C033C0500EE3D34 /* ViewController.m */,
 				4E11E6091C05F6A3005C88C9 /* ScheduleDetailViewController.h */,
 				4E11E60A1C05F6A3005C88C9 /* ScheduleDetailViewController.m */,
+				4E3E73D21C1260DB00B3BED3 /* CellTableViewCell.h */,
+				4E3E73D31C1260DB00B3BED3 /* CellTableViewCell.m */,
 				4E3E73D01C090F2700B3BED3 /* schedule.plist */,
 				4EF93E6A1C033C0500EE3D34 /* Main.storyboard */,
 				4ECB5EF21C03577D00607DA2 /* Models */,
@@ -250,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4EF93E691C033C0500EE3D34 /* ViewController.m in Sources */,
+				4E406B811C134B8400BF7733 /* ScheduleDetailModel.m in Sources */,
 				4ECB5EF11C03572E00607DA2 /* DataManager.m in Sources */,
 				4ECB5EF51C0357A200607DA2 /* TeacherSchedule.xcdatamodeld in Sources */,
 				4E11E60B1C05F6A3005C88C9 /* ScheduleDetailViewController.m in Sources */,
@@ -258,6 +269,7 @@
 				4E11E6071C05F4CE005C88C9 /* TeacherCoreData+CoreDataProperties.m in Sources */,
 				4ECB5EEE1C0347D000607DA2 /* Teacher.m in Sources */,
 				4EF93E631C033C0500EE3D34 /* main.m in Sources */,
+				4E3E73D41C1260DB00B3BED3 /* CellTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

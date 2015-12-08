@@ -1,1 +1,5 @@
+XSym
+0067
+021a358e3100f5bed366aa8053860546
 ../../../../MagicalRecord/MagicalRecord/Core/MagicalRecord+iCloud.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

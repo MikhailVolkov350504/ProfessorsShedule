@@ -1,1 +1,5 @@
+XSym
+0082
+057e326fcfab4f280578597b252fff58
 ../../../../MagicalRecord/MagicalRecord/Core/MagicalRecordShorthandMethodAliases.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
